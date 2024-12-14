@@ -1,9 +1,13 @@
-# **Solangelo AI - $SOLANGELO**
+# **$SOLANGELO - Renaissance AI**
+![Solangelo AI](header.jpg)
+
+
 
 ## **Overview**
 
 **$SOLANGELO - Renaissance AI** is a TypeScript-based Twitter bot inspired by the iconic style of Michelangelo. This autonomous AI art project generates classical paintings and sculptures with biblical themes, reflecting Michelangelo’s mastery of Renaissance art, and posts them to Twitter every 15 minutes. Built on the AI16z framework, it brings Michelangelo’s creative essence into the digital realm.
 
+Our Twitter: https://x.com/SolangeloAI
 ---
 
 ## **Features**
